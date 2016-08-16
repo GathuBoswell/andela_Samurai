@@ -1,4 +1,5 @@
 def dupli(listy):
+     """Function to check consecutive dulicate items in a list"""
     if len(listy) == 0:
         return "List is Empty"
     else:
